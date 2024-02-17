@@ -1,0 +1,20 @@
+.header{
+    background-color: white;
+    color: black;
+    border-bottom: none;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 20px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    z-index: 999;
+    border-radius: 30px;
+}
+
+.header img{
+    height: 45px;
+}
